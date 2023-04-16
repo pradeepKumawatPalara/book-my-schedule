@@ -1,0 +1,61 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+nav{
+    /* background-image: url('..\booking\images\slider.jpg'); */
+    background-image: url("..\booking\images\s2.jpg");
+}
+
+ul{
+    list-style:none;
+    margin:15px;
+    display:flex;
+}
+li a{
+    text-decoration: none;
+    margin-top:40px;
+    font-size: 2.0rem;
+    color:black;
+}
+li a:hover{
+    border-bottom: 2px solid black;
+}
+
+.main{
+    width:100%;
+    display:flex;
+}
+.main div{
+    width:35%;
+}
+input,button{
+    font-size:  1.3rem;
+    height:2rem;
+}
+button{
+    padding:2px;
+}
+.center
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+table
+{
+    width: 50%;
+    height: 100%;
+}
+table,td,th{
+   border:1px solid black;
+   border-collapse: collapse;
+}
+h1{
+    text-align: center;
+}
+th,td{
+    height: 30px;
+}
+td{
+    text-align: center;
+}

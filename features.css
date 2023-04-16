@@ -1,0 +1,48 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+nav{
+    background-color: black;
+}
+table,td,th{
+    border:1px solid black;
+    border-collapse: collapse;
+ }
+ table
+{
+    width: 50%;
+    height: 100%;
+}
+th,td{
+    height: 30px;
+}
+.serv{
+    margin-top:50px;
+}
+#photo{
+   background-color: white;
+   margin-top:20px;
+}
+#photo p{
+    font-size:20px;
+    font-family: cursive;
+    color:black;
+    text-align: center;
+}
+.center
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    text-align: center;
+}
+img{
+    height:auto;
+}
+#footer{
+ margin-left:auto;
+ margin-top:20px;
+
+}
